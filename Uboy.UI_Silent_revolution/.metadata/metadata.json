@@ -5,7 +5,7 @@
   "supported_game_version" : "1.10.*",
   "picture": "thumbnail.png",
   "short_description" : "Remove revolutionary political movement sound.",
-  "tags" : ["Utilities"],
+  "tags" : ["Utilities","Sound"],
   "relationships" : [],
   "game_custom_data" : {
     "multiplayer_synchronized" : true
