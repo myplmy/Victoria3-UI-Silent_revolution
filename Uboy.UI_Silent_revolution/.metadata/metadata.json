@@ -1,0 +1,13 @@
+{
+  "name" : "Uboy.UI_Silent_revolution",
+  "id" : "uboy.ui.Silent_revolution",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.10.*",
+  "picture": "thumbnail.png",
+  "short_description" : "Remove revolutionary political movement sound.",
+  "tags" : ["Utilities"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
