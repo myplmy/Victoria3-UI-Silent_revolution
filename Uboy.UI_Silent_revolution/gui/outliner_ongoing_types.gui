@@ -1552,7 +1552,11 @@ types ongoing_outliner_items {
 
 		state = {
 			name = _show
-			
+			###Uboy.UI_silent_revolution MODIFIED
+			#start_sound = {
+			#	soundeffect = "event:/SFX/DLC/1.3_ip1/UI/item_revolutionary_movt"
+			#}
+			###Uboy.UI_silent_revolution MODIFIED END
 		}
 
 		widget = {
